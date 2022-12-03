@@ -1,0 +1,9 @@
+.about{
+     background-image: url("../images/ap8.jpg");
+     background-repeat: no-repeat;
+     background-size:cover;
+     height: 300px;
+     display: flex;
+    justify-content: center;
+    align-items: center
+}
